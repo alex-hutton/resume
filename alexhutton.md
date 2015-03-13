@@ -108,7 +108,7 @@ __*Interesting challenges:*__
 Department of Primary Industries 2011 (eight week contract)
 
 **Online Producer**  
-Oxdam Australia 2008 - 2010
+Oxfam Australia 2008 - 2010
 
 **Online Producer**  
 Australian Conservation Foundation 2008 (six week contract)
