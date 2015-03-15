@@ -111,7 +111,6 @@ __*Interesting challenges:*__
 - Used AJAX extensively throughout the application in order to provide prompt responses to user actions.
 - Features built included: user registration sequence, login and account settings pages, Facebook style activity feed (which polled the server for new updates), hierarchical site navigation (with prefetch of child pages), 'betslip' (analogous to a shopping cart, allowing queuing of bets), lost password sequence, bet receipt, site search (with filtering).
 
-
 ### Prior roles ###
 **Web Support Analyst**  
 Department of Primary Industries 2011 (eight week contract)
