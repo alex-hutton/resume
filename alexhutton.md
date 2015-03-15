@@ -24,7 +24,7 @@ Behaviour-Driven Development,
 Bootstrap,
 Bower,
 Business Analysis,
-CakePHP,,
+CakePHP,
 CMS,
 Continuous Integration,
 CSS3,
@@ -79,7 +79,7 @@ __*Interesting challenges:*__
 - A large project, encompassing multiple components (deployed as microservices) required a user management application to allow admin users to manage user settings that resided across the various microservices (including the single sign-on application, which was a legacy, multi-tennanted application). I made a significant contribution to the user management application, building RESTful integration endpoints (using Tastypie) in integrated applications and user-interface in the admin application, which itself was a Django application.
 - One component of the project was a Service Directory of community health services. The backend of this was implemented using Elasticsearch with a Django-Tastypie REST interface. I was the lead developer for the frontend, which was built using Backbone.js and Leaflet to provide mapping. I co-ordinated two other developers, who were remote workers, in order to complete this frontend application within the timeframe. The frontend application that I developed was later successfully ported into two separate repackaged applications that were sold to other clients.
 - Due to restriction around personal health data, we were required to host our
-	applications in house, within geographic Australia. We choose to become early adopters of the Docker framework. This allowed for deterministic builds that effortessly graduated from one environment to the next. I established the Docker build process for the forum/groups component which was built using Drupal.
+	applications in house, within geographic Australia. We choose to become early adopters of the Docker framework. This allowed for deterministic builds that effortlessly graduated from one environment to the next. I established the Docker build process for the forum/groups component which was built using Drupal.
 - A legacy application created over ten years ago and written in Perl constituted a significant amount of technical debt for the organisation. I made a significant contribution to paying down this technical debt in porting the application to the newer Mojolicious framework, Docker, fixing various bugs and adding new features that prolonged the marketability of the product.
 - I performed Business Analysis, writing user stories for a community project based on which provided self-education material for individuals wishing to develop proficiency with various consumer technologies.
 
@@ -92,7 +92,7 @@ __*Role overview:*__ Sole developer at an established digital agency. Maintained
 __*Interesting challenges:*__
 
 - Built a CMS using the Yii framework, which integrated with a customer's product database using an endpoint that I developed and deployed into the customer's environment.
-- Integrated an existing ecommerce site built with CakePHP with a customer's SAP system for product fulfilment.
+- Integrated an existing ecommerce site built with CakePHP with a customer's SAP system for product fulfillment.
 - Implemented NAB Transact on an existing site, providing a credit card payment facility,
 - Integrated a WordPress site with a customer's Django application, allowing for seamless customer registration.
 - Since I was the primary technical person on staff, I performed all the server management, including setting up a new development environment for the other staff.
