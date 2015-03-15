@@ -122,11 +122,5 @@ Oxfam Australia 2008 - 2010
 **Online Producer**  
 Australian Conservation Foundation 2008 (six week contract)
 
-2007-2012 Freelancer Web Developer, Content Producer
-Successfully operated my own business, managing a range of clients and working as the sole technical and creative design person.
-Developing sites ranging from small static XHTML/CSS websites through to CMS sites (Wordpress, Drupal).
-Providing PHP modifications and enhancements to existing and new systems.
-Enhancing websites with jQuery, providing image galleries, client-side validation and other enhancements.
-Providing web strategy and SEO service and advice to clients..
-Training clients' staff in the operation of a CMS and in how to update and manage content.
-
+**Freelance Web Developer**  
+Various clients (WordPress, Drupal, static sites), 2007 - 2012
