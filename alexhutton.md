@@ -5,6 +5,15 @@ Email: alex@jovialsol.com
 7/5 Simpson Street
 Northcote, VIC, 3070
 
+## Summary ##
+I am an intermediate, full-stack Web Developer, with 7 years experience working in web, including 3.5 years as a software engineer. I have exposure to a variety of languages and frameworks, including Python, Django, JavaScript, PHP, Perl, HTML and CSS.
+
+What I love most about working with technology is solving problems creatively.
+
+I value simplicity in design, which is why I chose to use Backbone.js over a more comprehensive framework when building a search engine frontend at Infoxchange. Its capabilities met our requirements without adding unnecessary complexity, allowing us to deliver the product faster.
+
+Test-Driven Development is a way of simplifying the process of writing code itself, allowing me to easily verify that what I have written is correct. The resulting automated test suite then provides confidence that any regressions later introduced will be caught.
+
 ## Skills ##
 ActiveRecord,
 Agile,
