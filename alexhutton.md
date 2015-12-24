@@ -1,9 +1,9 @@
 Alex Hutton
 ===========
 Mobile: 0433 504 537
-Email: alex@jovialsol.com
-Address: 7/5 Simpson Street
-Northcote, VIC, 3070
+Email: mail@alexhutton.xyz
+Address: 3/27 Leopold Street
+South Yarra, VIC, 3141
 
 ## Summary ##
 I am an intermediate, full-stack Web Developer, with 7 years experience working in web, including 3.5 years as a software engineer. I have exposure to a variety of languages and frameworks, including Python, Django, JavaScript, PHP, Perl, HTML and CSS.
