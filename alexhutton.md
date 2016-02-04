@@ -6,80 +6,72 @@ Address: 3/27 Leopold Street
 South Yarra, VIC, 3141
 
 ## Summary ##
-I am an intermediate, full-stack Web Developer, with 7 years experience working in web, including 3.5 years as a software engineer. I have exposure to a variety of languages and frameworks, including Python, Django, JavaScript, PHP, Perl, HTML and CSS.
+I am senior, full-stack Web Developer, with 8 years experience working in web, including 5 years as a software engineer. I have developed expertise in a wide variety of languages, technologies, problem domains and workflows. Key languages for me are Python and JavaScript. 
 
-What I love most about working with technology is solving problems creatively.
+I value simplicity in design, I favour lightweight tools and frameworks and strive to use them in a precise and effective way.
 
-I value simplicity in design, which is why I chose to use Backbone.js over a more comprehensive framework when building a search engine frontend at Infoxchange. Its capabilities met our requirements without adding unnecessary complexity, allowing us to deliver the product faster.
+Test-Driven Development simplifies the development process, allowing me to verify code correctness with a tight feedback loop. The resulting automated test suite provides protection against the introduction of regressions, which is essential for the timely delivery of new features.
 
-Test-Driven Development is a way of simplifying the process of writing code itself, allowing me to easily verify that what I have written is correct. The resulting automated test suite then provides confidence that any regressions later introduced will be caught.
-
-## Skills ##
-ActiveRecord,
+## Key Skills ##
 Agile,
 AJAX,
+Automation,
 Backbone.js,
 Bash,
 Behaviour-Driven Development,
-Bootstrap,
-Bower,
 Business Analysis,
-CakePHP,
-CMS,
 Continuous Integration,
 CSS3,
-Debian,
 Django,
 Docker,
-Doctrine,
-Drupal,
 git,
-Grunt,
-Handlebars,
 HTML5,
+Integration,
 JavaScript,
 jQuery,
-jQueryMobile,
 JSON,
-Less,
 Linux,
 Microservice architecture,
-Mojolicious,
-MVC,
 Nginx,
-OOP,
-OpenCart,
-ORM,
 Perl,
 PHP,
 REST,
-Smarty,
 SQL,
-Subversion,
-Tastypie,
 Test-Driven Development,
-Underscore.js,
-Unit,
 Vim,
-WordPress,
 XHTML,
 XML,
-YAML,
-Yii
 
 ## Employment ##
-### February 2013 - Current:  Developer, Infoxchange Australia ###
+### April 2015 - Current: Senior Developer, QuantumIT (assigned to Telstra) ###
 
-__*Primary Skills used:*__ Python, Django, JavaScript, Backbone.js, Perl
+__*Primary Skills used:*__ Python, Django, Django Rest Framework, Celery
 
-__*Role overview:*__ Full stack developer, designing, architecting and building various features and solutions, as well as maintaining existing solutions. BDD & TDD principles were followed, with all features having a Lettuce tests and unit tests prior to merging. All code is peer reviewed. Size of development team ranged from 4 to 7 developers. Agile methodologies were followed, with sprints, scrums (daily stand-up) and a kanban board. Continuous Integration and Continuous Deployment (including automation of builds and deployment) were practiced.
+__*Role overview:*__ A senior developer in a team ranging up to ten developers, I provided significant technical leadership in maintaining and extending a cloud automation platform for Telstra. The platform acted as an API gateway, exposing a REST interface to Telstra's internal and external users and integrating downstream with various Telstra and 3rd party APIs. We worked with various teams across Telstra to bring multiple new products through from discovery, design, development, deployment and maintenance.
 
 __*Interesting challenges:*__
 
-- A large project, encompassing multiple components (deployed as microservices) required a user management application to allow admin users to manage user settings that resided across the various microservices (including the single sign-on application, which was a legacy, multi-tennanted application). I made a significant contribution to the user management application, building RESTful integration endpoints (using Tastypie) in integrated applications and user-interface in the admin application, which itself was a Django application.
-- One component of the project was a Service Directory of community health services. The backend of this was implemented using Elasticsearch with a Django-Tastypie REST interface. I was the lead developer for the frontend, which was built using Backbone.js and Leaflet to provide mapping. I co-ordinated two other developers, who were remote workers, in order to complete this frontend application within the timeframe. The frontend application that I developed was later successfully ported into two separate repackaged applications that were sold to other clients.
-- Due to restriction around personal health data, we were required to host our
-	applications in house, within geographic Australia. We choose to become early adopters of the Docker framework. This allowed for deterministic builds that effortlessly graduated from one environment to the next. I established the Docker build process for the forum/groups component which was built using Drupal.
+- Quickly developed a strong understanding of network layer 2 and 3 design concepts as the developer responsible for the network provisioning sub-system
+- Became an expert in Django Rest Framework, implementing extensive serialisation and custom endpoints (ViewSets) to facilitate complex JSON payloads, asynchronous design patterns, and extensible coding.
+- I was responsible for formulating the team's git workflow including writing deploy scripts, githooks and Gitlab and Jenkins integration.
+- Openshift was the chosen hosting platform, its restrictive and arbitrary limitations meant we had to be creative to provide our own log rotation, database vacuuming, process keepalives and various other system configuration pieces.
+- Converted design documents into user stories, allowing the team to
+	rationalise user requirements, keep requirement conversations on track and effectively plan delivery within allowed timeframes.
+- Platforms we implemented integration for included AWS, IBM SoftLayer, VMware Vcloud Air and Microsoft Azure
+
+### February 2013 - April 2015: Developer, Infoxchange Australia ###
+
+__*Primary Skills used:*__ Python, Django, JavaScript, Backbone.js, Perl
+
+__*Role overview:*__ Full stack developer, designing, architecting and building various features and solutions, as well as maintaining existing solutions. BDD & TDD principles were followed, with all features having a Lettuce tests and unit tests prior to merging. Size of development team ranged from 4 to 7 developers. Agile methodologies were followed, with sprints, scrums (daily stand-up) and a kanban board. Continuous Integration and Continuous Deployment (including automation of builds and deployment) were practiced.
+
+__*Interesting challenges:*__
+
+- A large project, encompassing multiple components (deployed as microservices)
+	required a user management application to allow admin users to manage user settings that resided across the various microservices (including the single sign-on application, which was a legacy, multi-tennanted application). I made a significant contribution to the user management application, building RESTful integration endpoints (using Tastypie) within the integrated applications, and the user-interface in the admin application, which itself was a Django application.
+- One component of the project was a Service Directory of community health
+	services. Its backend backend was implemented using Elasticsearch with a Django-Tastypie REST interface. I was the lead developer for the frontend, which was built using Backbone.js and Leaflet for mapping integration. I co-ordinated two remote working developers, completing the project within a tight timeframe. The frontend application that I developed was later successfully ported into two separate repackaged applications that were sold to other clients.
+- Due to restrictions around personal health data, we were required to host our applications in house, within geographic Australia. We became early adopters of the Docker framework. This allowed for deterministic builds that could seamlessly transfer from one environment to the next. I established the Docker build process for the forum/groups component which was built using Drupal.
 - A legacy application created over ten years ago and written in Perl constituted a significant amount of technical debt for the organisation. I made a significant contribution to paying down this technical debt in porting the application to the newer Mojolicious framework, Docker, fixing various bugs and adding new features that prolonged the marketability of the product.
 - I performed Business Analysis, writing user stories for a community project based on which provided self-education material for individuals wishing to develop proficiency with various consumer technologies.
 
@@ -102,7 +94,7 @@ __*Interesting challenges:*__
 
 __*Primary Skills used:*__ PHP, Doctrine, Smarty, jQuery, jQueryMobile
 
-__*Role overview:*__ This was a small organisation (essentially a startup) that had created a new community betting website called Favourite.com. Prior to launch, I was hired to port the existing web application into a mobile format, using jQueryMobile. This primarily involved writing new Views, Controllers and templates to support the mobile application. TDD practices were followed and all features had an integration test prior to merging. Continuous Integration (build automation) was practiced.
+__*Role overview:*__ This was a small organisation (essentially a startup) that had created a new community betting website called Favourite.com. Prior to launch, I was hired to port the existing web application into a mobile format, using jQueryMobile. This primarily involved writing new Views, Controllers and Templates to support the mobile application. TDD practices were followed and all features had an integration test prior to merging. Continuous Integration (build automation) was practiced.
 
 __*Interesting challenges:*__
 
@@ -112,14 +104,14 @@ __*Interesting challenges:*__
 - Features built included: user registration sequence, login and account settings pages, Facebook style activity feed (which polled the server for new updates), hierarchical site navigation (with prefetch of child pages), 'betslip' (analogous to a shopping cart, allowing queuing of bets), lost password sequence, bet receipt, site search (with filtering).
 
 ### Prior roles ###
-**Web Support Analyst**  
+**Web Support Analyst**
 Department of Primary Industries 2011 (eight week contract)
 
-**Online Producer**  
+**Online Producer**
 Oxfam Australia 2008 - 2010
 
-**Online Producer**  
+**Online Producer**
 Australian Conservation Foundation 2008 (six week contract)
 
-**Freelance Web Developer**  
+**Freelance Web Developer**
 Various clients (WordPress, Drupal, static sites), 2007 - 2012
