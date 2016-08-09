@@ -50,7 +50,7 @@ XML
 
 ## Employment ##
 ### April 2016 - Current: Developer, The Optical Superstore ###
-__*Primary Skills used:*__ Python, Flask, SQLAlchemy, React
+__*Primary Skills used:*__ Python, Flask, SQLAlchemy, React, Electron
 
 __*Role overview:*__ Responsible for designing and building a custom CRM / communications platform for a national retail chain. System comprised of a central SMS gateway integration and reporting system (built on Django), a Flask Potion based REST API located in each store which integrated with a legacy Database via SQLAlchemy, and thirdly, a frontend application written using React and deployed as a standalone application using Electron, to run on multiple systems within each store. In building this system I worked from home with minimal oversight.
 
