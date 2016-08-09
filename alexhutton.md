@@ -52,9 +52,9 @@ XML
 ### April 2016 - Current: Developer, The Optical Superstore ###
 __*Primary Skills used:*__ Python, Flask, SQLAlchemy, React
 
-__ *Role overview:*__ Responsible for designing and building a custom CRM / communications platform for a national retail chain. System comprised of a central SMS gateway integration and reporting system (built on Django), a Flask Potion based REST API located in each store which integrated with a legacy Database via SQLAlchemy, and thirdly, a frontend application written using React and deployed as a standalone application using Electron, to run on multiple systems within each store. In building this system I worked from home with minimal oversight.
+__*Role overview:*__ Responsible for designing and building a custom CRM / communications platform for a national retail chain. System comprised of a central SMS gateway integration and reporting system (built on Django), a Flask Potion based REST API located in each store which integrated with a legacy Database via SQLAlchemy, and thirdly, a frontend application written using React and deployed as a standalone application using Electron, to run on multiple systems within each store. In building this system I worked from home with minimal oversight.
 
-__ *Interesting challenges*__
+__*Interesting challenges*__
 
 - The legacy database was originally created for Microsoft Access and extensively utilised composite keys. The database had been migrated to Postgres and support for the composite keys was obtained by using Flask with SQLAlchemy. The Flask Potion REST Framework was extended to support the composite keys.
 - The in-store computers run Microsoft Windows, therefore a Windows installer was created using Inno Setup.
