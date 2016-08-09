@@ -6,7 +6,7 @@ Address: 3/27 Leopold Street
 South Yarra, VIC, 3141
 
 ## Summary ##
-I am senior, full-stack Web Developer, with 8 years experience working in web, including 5 years as a software engineer. I have developed expertise in a wide variety of languages, technologies, problem domains and workflows. Key languages for me are Python and JavaScript. 
+I am senior, full-stack Web Developer, with 8 years experience working in web, including 5 years as a software engineer. I have developed expertise in a wide variety of languages, technologies, problem domains and workflows. Key languages for me are Python and JavaScript.
 
 I value simplicity in design, I favour lightweight tools and frameworks and strive to use them in a precise and effective way.
 
@@ -25,6 +25,9 @@ CSS3,
 Django,
 Django-Rest-Framework,
 Docker,
+Electron,
+ES6,
+Flask,
 git,
 HTML5,
 Integration,
@@ -36,15 +39,30 @@ Microservice architecture,
 Nginx,
 Perl,
 PHP,
+React,
 REST,
 SQL,
+SQLAlchemy
 Test-Driven Development,
 Vim,
 XHTML,
 XML,
 
 ## Employment ##
-### April 2015 - Current: Senior Developer, QuantumIT (assigned to Telstra) ###
+### April 2016 - Current: Developer, The Optical Superstore ###
+ *Primary Skills used:* Python, Flask, SQLAlchemy, React
+
+  *Role overview:* Responsible for designing and building a custom CRM / communications platform for a national retail chain. System comprised of a central SMS gateway integration and reporting system (built on Django), a Flask Potion based REST API located in each store which integrated with a legacy Database via SQLAlchemy, and thirdly, a frontend application written using React and deployed as a standalone application using Electron, to run on multiple systems within each store. In building this system I worked from home with minimal oversight.
+
+  *Interesting challenges*
+
+- The legacy database was originally created for Microsoft Access and extensively utilised composite keys. The database had been migrated to Postgres and support for the composite keys was obtained by using Flask with SQLAlchemy. The Flask Potion REST Framework was extended to support the composite keys.
+- The in-store computers run Microsoft Windows, therefore a Windows installer was created using Inno Setup.
+- To achieve and standalone program for the in-store computers, Electron was used to create a webkit based application.
+- Each of the three codebases were extensively linted, tested and documented, using configuration that I created myself.
+- Due to my previous frontend development experience I was able to quickly pick up React and become proficient in using it.
+
+### April 2015 - April 2016: Senior Developer, QuantumIT (assigned to Telstra) ###
 
 __*Primary Skills used:*__ Python, Django, Django Rest Framework, Celery
 
@@ -52,13 +70,12 @@ __*Role overview:*__ A senior developer in a team ranging up to ten developers, 
 
 __*Interesting challenges:*__
 
-- Quickly developed a strong understanding of network layer 2 and 3 design concepts as the developer responsible for the network provisioning sub-system
+- Quickly developed a strong understanding of network layer 2 and 3 design concepts as the developer responsible for the network provisioning sub-system.
 - Became an expert in Django Rest Framework, implementing extensive serialisation and custom endpoints (ViewSets) to facilitate complex JSON payloads, asynchronous design patterns, and extensible coding.
 - I was responsible for formulating the team's git workflow including writing deploy scripts, githooks and Gitlab and Jenkins integration.
 - Openshift was the chosen hosting platform, its restrictive and arbitrary limitations meant we had to be creative to provide our own log rotation, database vacuuming, process keepalives and various other system configuration pieces.
-- Converted design documents into user stories, allowing the team to
-	rationalise user requirements, keep requirement conversations on track and effectively plan delivery within allowed timeframes.
-- Platforms we implemented integration for included AWS, IBM SoftLayer, VMware Vcloud Air and Microsoft Azure
+- Converted design documents into user stories, allowing the team to rationalise user requirements, keep requirement conversations on track and effectively plan delivery within allowed timeframes.
+- Platforms we implemented integration for included AWS, IBM SoftLayer, VMware Vcloud Air and Microsoft Azure.
 
 ### February 2013 - April 2015: Developer, Infoxchange Australia ###
 
@@ -68,8 +85,7 @@ __*Role overview:*__ Full stack developer, designing, architecting and building 
 
 __*Interesting challenges:*__
 
-- A large project, encompassing multiple components (deployed as microservices)
-	required a user management application to allow admin users to manage user settings that resided across the various microservices (including the single sign-on application, which was a legacy, multi-tennanted application). I made a significant contribution to the user management application, building RESTful integration endpoints (using Tastypie) within the integrated applications, and the user-interface in the admin application, which itself was a Django application.
+- A large project, encompassing multiple components (deployed as microservices) required a user management application to allow admin users to manage user settings that resided across the various microservices (including the single sign-on application, which was a legacy, multi-tennanted application). I made a significant contribution to the user management application, building RESTful integration endpoints (using Tastypie) within the integrated applications, and the user-interface in the admin application, which itself was a Django application.
 - One component of the project was a Service Directory of community health
 	services. Its backend backend was implemented using Elasticsearch with a Django-Tastypie REST interface. I was the lead developer for the frontend, which was built using Backbone.js and Leaflet for mapping integration. I co-ordinated two remote working developers, completing the project within a tight timeframe. The frontend application that I developed was later successfully ported into two separate repackaged applications that were sold to other clients.
 - Due to restrictions around personal health data, we were required to host our applications in house, within geographic Australia. We became early adopters of the Docker framework. This allowed for deterministic builds that could seamlessly transfer from one environment to the next. I established the Docker build process for the forum/groups component which was built using Drupal.
