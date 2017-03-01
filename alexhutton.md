@@ -6,7 +6,7 @@ Address: 3/27 Leopold Street
 South Yarra, VIC, 3141
 
 ## Summary ##
-I am senior, full-stack Web Developer, with 8 years experience working in web, including 5 years as a software engineer. I have developed expertise in a wide variety of languages, technologies, problem domains and workflows. Key languages for me are Python and JavaScript.
+I am senior, full-stack Web Developer, with 9 years experience working in web, including 6 years as a software engineer. I have developed expertise in a wide variety of languages, technologies, problem domains and workflows. Key languages for me are Python and JavaScript.
 
 I value simplicity in design, I favour lightweight tools and frameworks and strive to use them in a precise and effective way.
 
@@ -49,7 +49,18 @@ XHTML,
 XML
 
 ## Employment ##
-### April 2016 - Current: Developer, The Optical Superstore ###
+### January 2017 - Current: Technical Lead, Telstra ###
+__*Primary Skills used:*__ Python, JavaScript, DevOps, Team Leadership
+
+__*Role overview:*__ The project is to rebuild a legacy Perl site using Python/Django. This is a large site used widely within the telecommunications industry. I am responsible for providing technical direction to the team in terms of how Django should be applied to this problem. The team consists of experienced developers who have no prior Django or Python experience. My responsibilities are to train the team in the required skills that they need to continue developing the site after my contract ends. This includes, teaching Python skills and methodologies, providing guidance on how to use Django, for example which libraries to use and establishing best practice development processes such as CI/CD, using the ORM, OOP, Peer reviews, TDD, BDD Browser Testing, correct use of git, Agile estimation practices, code documentation and automated style checking. I set have set up the following self-hosted solutions for the team to facilitate their work, a git frontend tool for code reviews (Kallithea), a ticketing platform for tracking Agile stories (Taiga), and a CI/CD system (Jenkins). I am responsible for developing the automated deployment scripts and creating a solution to allow the new system to be deployed side-by-side with the legacy system.
+
+__*Interesting challenges:*__
+
+- The most interesting challenge in this role for me has been the leadership
+	aspect. I have been pacing the developers so that they are gradually being exposed to more skills, without overwhelming them. Simultaneously I have been bringing the supporting tools online so that the team can familiarise themselves with the tools and make use of them in a gradual but timely manner. This requires careful planning and pacing so that I have done the work necessary to make the tools available at the time points that best suit team's learning curve.
+- I have enjoyed taking the time to work one-on-one with each developer to build their confidence and give them the guidance that they need to become proficient in Python/Django, and the new processes and practices that I have introduced to them.
+
+### April 2016 - October 2016: Developer, The Optical Superstore ###
 __*Primary Skills used:*__ Python, Flask, SQLAlchemy, React, Electron
 
 __*Role overview:*__ Responsible for designing and building a custom CRM / communications platform for a national retail chain. System comprised of a central SMS gateway integration and reporting system (built on Django), a Flask Potion based REST API located in each store which integrated with a legacy Database via SQLAlchemy, and thirdly, a frontend application written using React and deployed as a standalone application using Electron, to run on multiple systems within each store. In building this system I worked from home with minimal oversight.
