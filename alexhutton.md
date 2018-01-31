@@ -20,8 +20,10 @@ Backbone.js,
 Bash,
 Behaviour-Driven Development,
 Business Analysis,
+Cloud Services,
 Continuous Integration,
 CSS3,
+DevOps,
 Django,
 Django-Rest-Framework,
 Docker,
@@ -32,6 +34,7 @@ git,
 HTML5,
 Integration,
 JavaScript,
+Jenkins,
 jQuery,
 JSON,
 Linux,
@@ -42,7 +45,8 @@ PHP,
 React,
 REST,
 SQL,
-SQLAlchemy
+SQLAlchemy,
+Technical Leadership,
 Test-Driven Development,
 Vim,
 XHTML,
@@ -59,6 +63,17 @@ __*Interesting challenges:*__
 - The most interesting challenge in this role for me has been the leadership
 	aspect. I have been pacing the developers so that they are gradually being exposed to more skills, without overwhelming them. Simultaneously I have been bringing the supporting tools online so that the team can familiarise themselves with the tools and make use of them in a gradual but timely manner. This requires careful planning and pacing so that I have done the work necessary to make the tools available at the time points that best suit team's learning curve.
 - I have enjoyed taking the time to work one-on-one with each developer to build their confidence and give them the guidance that they need to become proficient in Python/Django, and the new processes and practices that I have introduced to them.
+
+
+### May 2017 - Current: Senior Web Developer, Casey City Council ###
+#### Note: From May 2017 my time has been split 60-40 between Telstra and Casey ####
+__*Primary Skills user:*__ DevOps, PHP
+
+__*Role overview:*__ Casey City Council is the largest Melbourne council, recently they embarked on implementing as web forms a variety of paper based forms. I was brought in to provide additional capacity for a six week period, and they decided to retain me two days a week. My contributions include setting up BDD and unit testing using BitBucket Pipelines and providing technical guidance to the inhouse team including fixing many critical bugs that the inhouse developers didn't have the skills to fix.
+
+__*Interesting challenges:*__
+
+- The tech stack is the typical WordPress installation with a large number of plugins and custom scripts, including of code left over from various short term contractors. My job has been to extend the existing functionality and fix bugs. I worked independently, using the limited debugging tools available to PHP, delved into the existing code and created the desired solutions.
 
 ### April 2016 - October 2016: Developer, The Optical Superstore ###
 __*Primary Skills used:*__ Python, Flask, SQLAlchemy, React, Electron
