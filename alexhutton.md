@@ -47,7 +47,8 @@ git,
 __*Role overview:*__  I led the redevelopment of [the RFNSA website](https://www.rfnsa.com.au), a high volume public website that is vital in supporting the mobile communications industry in satisfying its regulatory requirements for mobile network deployment. As well as providing community consultation functions, such as informing the public of the Electromagnetic Emission (EME) levels, the website also supports a wide variety of regulatory and administrative processes carried out behind the scenes by mobile carriers. My role was to provide technical leadership and mentorship to the development team in adopting best practice Agile and software development methodologies, as well as to be responsible for the design of the technical solution itself.
 
 __*Points of interest:*__
-Introduced the team to and trained them in Agile methodologies, including:
+Introduced the team to, and trained them in, Agile methodologies, including:
+
 - Agile style daily stand-ups, ie. Scrum. (To be completed in under 2 minutes).
 - How to write user stories, including breaking tasks into smaller stories, estimation of story points and organising them within epics
 - Analysed user requirements and provided the complete documentation and creation of user stories for various subsystems, which were delivered successfully, without the need for rework
@@ -57,11 +58,13 @@ Introduced the team to and trained them in Agile methodologies, including:
 - Use of online ticketing systems (including Jira) to support Agile processes, such as Kanban
 
 Introduced Continuous Deployment / Continuous Integration (CI/CD) to the team, including:
+
 - Installed, configured and maintained a Jenkins instance
 - Designed and created Jenkins jobs for providing automated testing, automated deployment and one-click deployment to production. These functions significantly reduced deployment time and reduced code defects.
 - Trained the team in how to use Jenkins and how to write automated tests.
 
 Introduced Peer Reviews to the team, including:
+
 - Training the team in the Peer Review process and providing extensive ongoing guidance into the process. This was a key means of training developers in technologies that were new to the team, such as Python/Django.
 - Setting up of the git repositories
 - Guiding migration of existing CVS, SVN and TFS repositories into git.
@@ -69,6 +72,7 @@ Introduced Peer Reviews to the team, including:
 - Use of git tagging to track versions
 
 Responsible in architecting solutions to the entirety of the project scope, including:
+
 - Devising an architecture that would allow the rewritten Python/Django application to be deployed as a hybrid system with the legacy Perl application, necessary to allow the team to deploy new functionality in an incremental and Agile manner
 - Full environmental configuration for the application, including Linux, nginx, MySQL, uwsgi, perl, memcached, MySQL
 - Extending Django&#39;s ORM to provide a modular approach to supporting the extensive legacy data schemas
