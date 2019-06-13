@@ -48,52 +48,52 @@ __*Role overview:*__  I led the redevelopment of [the RFNSA website](https://www
 
 __*Points of interst:*__
 Introduced the team to and trained them in Agile methodologies, including:
-    - Agile style daily stand-ups, ie. Scrum. (Completed in under 2 minutes).
-    - How to write user stories, including breaking tasks into smaller stories,
+- Agile style daily stand-ups, ie. Scrum. (Completed in under 2 minutes).
+- How to write user stories, including breaking tasks into smaller stories,
       estimation of story points and organising them within epics
-    - Analysised user requirements and provided the complete documentation and
+- Analysised user requirements and provided the complete documentation and
       creation of user stories for various subsystems
-    - Developing an understanding of team velocity and how this can inform
+- Developing an understanding of team velocity and how this can inform
       improvements in efficency and team cadance
-    - Organised, ran and documented Agile cermonies such as end of sprint retros and showcases
-    - Mentored members outside the immediate team in contributing as product owners
+- Organised, ran and documented Agile cermonies such as end of sprint retros and showcases
+- Mentored members outside the immediate team in contributing as product owners
       or facilitating user feedback
-    - Use of online ticketing systems (including Jira) to support Agile
+- Use of online ticketing systems (including Jira) to support Agile
       processes, such as Kanban
 Introduced Continuous Deployment / Continuous Integration (CI/CD) to the
 team, including:
-    - Installed, configured and maintained a Jenkins instance
-    - Designed and created Jenkins jobs for providing automated testing,
+- Installed, configured and maintained a Jenkins instance
+- Designed and created Jenkins jobs for providing automated testing,
       automated deployment and one-click deployment to production. These functions
       significantly reduced deployment time and reduced code defects.
-    - Trained the team in how to use Jenkins and how to write automated tests.
+- Trained the team in how to use Jenkins and how to write automated tests.
 Introduced Peer Reviews to the team, including:
-    - Training the team in the Peer Review process and performing the majority
+- Training the team in the Peer Review process and performing the majority
       of peer reviews myself. This was a key means of training developers in
       the use of Python/Django which was new to the team.
-    - Setting up of the git repositories
-    - Guiding migration of existing CVS, SVN and TFS repositories into git.
-    - Teaching the team members how to use git, both within the CLI, within
+- Setting up of the git repositories
+- Guiding migration of existing CVS, SVN and TFS repositories into git.
+- Teaching the team members how to use git, both within the CLI, within
       PyCharm and other frontends
-    - Use of git tagging to track versions
+- Use of git tagging to track versions
 Responsible in architecting solutions to the entirety of the project scope, including:
-    - Devising an architecture that would allow the rewritten Python/Django
+- Devising an architecture that would allow the rewritten Python/Django
       application to be deployed as a hybird system with the legacy Perl
       application, necessary to allow the team to deploy new functionality in
       an incremental and Agile manner
-    - Full environmental configuration for the application, including Linux,
+- Full environmental configuration for the application, including Linux,
       nginx, MySQL, uwsgi, perl, memcached, MySQL
-    - Extending Django&#39;s ORM to provide a modular approach to supporting
+- Extending Django&#39;s ORM to provide a modular approach to supporting
       extensive legacy data schemas
-    - Set up the development environments in Windows and Linux and trained the
+- Set up the development environments in Windows and Linux and trained the
       team
-    - Set up automated code quality tools and automated testing, including
+- Set up automated code quality tools and automated testing, including
       BDD in-browser testing
-    - Constantly pushing to refine the codebase and leading the team towards clear,
+- Constantly pushing to refine the codebase and leading the team towards clear,
       robust design and implementation, supporting ease of incremental development and maintenance
-    - Developed performence tests and optimised the environmental
+- Developed performence tests and optimised the environmental
       configuration, application logic and database queries to facilitate high volume load
-    - Created an application documentation system which generates automatically from code
+- Created an application documentation system which generates automatically from code
 
 In this role I have demonstrated that with my extensive understanding software development, I can build and support team capacity to deliver complex technical challenges using the latest software development processes and technologies.
 
