@@ -47,6 +47,7 @@ git,
 __*Role overview:*__  I led the redevelopment of [the RFNSA website](https://www.rfnsa.com.au), a high volume public website that is vital in supporting the mobile communications industry in satisfying its regulatory requirements for mobile network deployment. As well as providing community consultation functions such as informing the public of the Electro Magnetic Emission (EME) levels, the website also supports a wide variety of regulatory and administrative processes carried out behind the scenes by mobile carriers. My role was to provide technical leadership and mentorship to the development team in adopting best practice Agile and software development methodologies, as well as to be responsible for the design of the technical solution itself.
 
 __*Points of interst:*__
+
 Introduced the team to and trained them in Agile methodologies, including:
 - Agile style daily stand-ups, ie. Scrum. (Completed in under 2 minutes).
 - How to write user stories, including breaking tasks into smaller stories,
@@ -60,6 +61,7 @@ Introduced the team to and trained them in Agile methodologies, including:
       or facilitating user feedback
 - Use of online ticketing systems (including Jira) to support Agile
       processes, such as Kanban
+
 Introduced Continuous Deployment / Continuous Integration (CI/CD) to the
 team, including:
 - Installed, configured and maintained a Jenkins instance
@@ -76,6 +78,7 @@ Introduced Peer Reviews to the team, including:
 - Teaching the team members how to use git, both within the CLI, within
       PyCharm and other frontends
 - Use of git tagging to track versions
+
 Responsible in architecting solutions to the entirety of the project scope, including:
 - Devising an architecture that would allow the rewritten Python/Django
       application to be deployed as a hybird system with the legacy Perl
