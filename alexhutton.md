@@ -4,12 +4,12 @@ Mobile: 0433 504 537
 
 Email: mail@alexhutton.xyz
 
-Address: 6/30 Ormond Road
-Ascot Vale, VIC, 3032
+Address: 298 Sunshine Avenue
+  Keilor Downs, VIC, 3038
 
 ## Summary ##
 
-With 8 years experience in software development, I have a deep understanding of the needs of technical teams both technologically and organisationally. My greatest strength is my ability to grow the capacity of the people I work with to deliver value to the organisation.
+With 10 years experience in software development, I have a deep understanding of the needs of technical teams both technologically and organisationally. My greatest strength is my ability to grow the capacity of the people I work with to deliver value to the organisation.
 
 ## Key Skills ##
 
@@ -17,6 +17,7 @@ AJAX,
 APIs,
 Agile,
 Automation,
+Azure,
 Behaviour-Driven Development,
 Business Analysis,
 CSS3,
@@ -26,10 +27,14 @@ Django,
 Django-Rest-Framework,
 Docker,
 ES6,
+Git,
+GraphQL,
 HTML5,
 Integration,
 JavaScript,
 Jenkins
+Jira,
+Kubernetes,
 Leadership,
 Linux,
 Mentoring,
@@ -38,12 +43,50 @@ MySQL
 Nginx,
 REST,
 Scrum Master,
+Svelte,
 System design,
 Team building,
 Test-Driven Development,
-git,
 
 ## Employment ##
+
+### July 2019 - Ongoing: Team Lead, Elenium Automation Pty. Ltd.
+
+__*Role overview:*__ Led delivery of new automation product as part of multi-million dollar digital transformation project for major airline. Originally hired as a Senior Developer, was made Team Lead early on due to positive feedback from the client. Took on full scope of responsibilities to ensure the success of the project. Oversaw the following components of the application: a JavaScript UI application, a mobile payment portal, a GraphQL API gateway integrating with the client's backend, an automated reporting system delivering key usage metrics to the client and a Java applet providing CORBA bindings to an industry specified hardware abstraction layer.
+
+__*Points of interest:*__
+- Architected the solution, creating a simplified design that promoted ease of
+  maintenance and expansion with new features.
+- Supported professional development of colleagues, through crafting work to
+  suit their skills, training, code reviews, pair programming, automated code
+  linters, etc.
+- Reviewed code and changes to the application with close attention to detail
+  to ensure customer received product they wanted, while also promoting
+  upskilling and protecting against future rework.
+- Managed four direct reports, plus tester, graphic designer and floating
+  development reasources.
+- Coordinated all resources on the project to maximise delivery to the client,
+  eg. coordinated frontend and backend efforts to ensure they fit together to
+  provide the required feature.
+- Debugged complex issues as they arose, with consistent ability to resolve
+  them.
+- Worked with client to analyse requirements, negotiating scope changes to
+  deliver the maximum amount of value with the most efficient use of effort an
+  minimised complexity.
+- Took over role of DevOps engineer after previous resource left. Learned
+  Azure, Kubernetes and how to resolve issues quickly.
+- Wrote and managed CI/CD pipelines, including Dockerfiles.
+_ Implemented release management through git tagging.
+- Ran Scrum ceremonies, fostering team cohesian and capturing feedback for
+  continual improvement of processes.
+- Created various tools to support development and testing, such as a debug
+  toolbar embedded within the application for injection of test data.
+- Managed Jira, (eg. workflows, boards, filters, dashboards). Educated the
+  client and team on how to best use Jira to break down features into Epics,
+  Stories and Sub-Tasks.
+- Provided out of hours technical support to on-site resources.
+- Continued to write code, to deliver complex features to the client.
+
 ### January 2017 - June 2019: Technical Lead - Senior Software Engineer, Telstra ###
 
 __*Role overview:*__  I led the redevelopment of [the RFNSA website](https://www.rfnsa.com.au), a high volume public website that is vital in supporting the mobile communications industry in satisfying its regulatory requirements for mobile network deployment. As well as providing community consultation functions, such as informing the public of the Electromagnetic Emission (EME) levels, the website also supports a wide variety of regulatory and administrative processes carried out behind the scenes by mobile carriers. My role was to provide technical leadership and mentorship to the development team in adopting best practice Agile and software development methodologies, as well as to be responsible for the design of the technical solution itself.
