@@ -9,7 +9,7 @@ Address: 298 Sunshine Avenue
 
 ## Summary ##
 
-With 10 years experience in software development, I have a deep understanding of the needs of technical teams both technologically and organisationally. My greatest strength is my ability to grow the capacity of the people I work with to deliver value to the organisation.
+With more than 10 years experience in software development, I have a deep understanding of the needs of technical teams both technologically and organisationally. My greatest strength is my ability to grow the capacity of the people I work with to deliver value to the organisation.
 
 ## Key Skills ##
 
@@ -18,16 +18,21 @@ APIs,
 Agile,
 Automation,
 Azure,
+AWS,
+AWS Lambda,
 Behaviour-Driven Development,
 Business Analysis,
+CDK,
 CSS3,
 Continuous Integration,
 DevOps,
 Django,
 Django-Rest-Framework,
+Domain-Driven Architecture,
 Docker,
 ES6,
 Git,
+Gitlab,
 GraphQL,
 HTML5,
 Integration,
@@ -41,6 +46,7 @@ Mentoring,
 Microservice architecture,
 MySQL
 Nginx,
+React,
 REST,
 Scrum Master,
 Svelte,
@@ -50,7 +56,21 @@ Test-Driven Development,
 
 ## Employment ##
 
-### July 2019 - Ongoing: Team Lead, Elenium Automation Pty. Ltd.
+### September 2021 - Ongoing: Senior Python Engineer, Playtime Solutions (assigned to IDP Australia Pty. Ltd.)
+
+__*Role overview:*__ Senior design and implementation role on redevelopment of legacy monolith into modern, Domain-Driven microservice architecture for global corporation, making full use of AWS cloud services.
+
+__*Points of interest:*__
+- Solutioning of AWS cloud based microservice application, using Lambdas
+  (Python) to handle HTTP requests and SQS/SNS message ingestion.
+- Implementing infrastructure as code using AWS CDK and Terraform.
+- Mentoring and supporting onshore and offshore staff, including peer reviews,
+  breaking down tasks, allocating work to suit skillsets, managing effective
+  team utilisation.
+- Establishing and improving internal toolchains and libraries to support
+  ongoing organisational initiatives.
+
+### July 2019 - September 2021: Team Lead, Elenium Automation Pty. Ltd.
 
 __*Role overview:*__ Led delivery of new automation product as part of multi-million dollar digital transformation project for major airline. Originally hired as a Senior Developer, was made Team Lead early on due to positive feedback from the client. Took on full scope of responsibilities to ensure the success of the project. Oversaw the following components of the application: a JavaScript UI application, a mobile payment portal, a GraphQL API gateway integrating with the client's backend, an automated reporting system delivering key usage metrics to the client and a Java applet providing CORBA bindings to an industry specified hardware abstraction layer.
 
